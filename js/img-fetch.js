@@ -17,7 +17,7 @@ function fetchImages() {
   .done(function(response) {
     $.each(response, function(index, image) {
       $gallery.append(
-        // Add template code here.
+        Mustache.render(imageTemplate, image)
       );
     });
   })
