@@ -1,8 +1,12 @@
-### Test for Tandem (jQuery version)
+###[Test for Tandem (jQuery version)](http://kennethlee.github.io/tandem-test/)
+
+---
 
 Demonstration of the following functionality:
 
 This app was made to demonstrate the implementation of two features: loading the next page of images when user reaches the bottom of the page, and the reflowable rendering of the responsive image gallery.
+
+[Check it out.](http://kennethlee.github.io/tandem-test/)
 
 Major Details:
 
